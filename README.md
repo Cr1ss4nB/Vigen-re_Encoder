@@ -1,4 +1,4 @@
-# Vigenère.py
+# Cifrando un Mensaje a lo Vigenère
 
 Este programa implementa el cifrado de una sola vía usando el algoritmo de Vigenère, siguiendo la fórmula:  
 **Yi = (Xi + Zi) mod T**,  
